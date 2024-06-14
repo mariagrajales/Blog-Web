@@ -1,0 +1,18 @@
+.textarea{
+    width: 18vw;
+    height: 18vh;
+  
+}
+
+.input{
+    width: 18vw;
+    height: 4vh;
+     
+}
+
+
+.input,
+.textarea{
+    margin: 10px;
+    
+}

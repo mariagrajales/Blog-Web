@@ -1,0 +1,25 @@
+.nota_contain{
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+    width: 18vw;
+    height: 35vh;
+    background-color: rgb(148, 148, 148);
+    border-radius: 10px;
+    background-color: rgba(107, 107, 107, 0.5);
+}
+
+.parrafo_nota {
+    align-items: center;
+    justify-content: center;
+    height: 10vw;
+    display: flex;
+    margin-bottom: 10px;
+    overflow: auto;
+    padding-top: 10px;
+}
+
+.titulonota{
+    margin: 0;
+}
