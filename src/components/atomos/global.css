@@ -1,13 +1,13 @@
 .textarea{
     width: 18vw;
     height: 18vh;
-  
+  color:black
 }
 
 .input{
     width: 18vw;
     height: 4vh;
-     
+    color:black
 }
 
 
@@ -15,5 +15,6 @@
 .textarea{
     margin: 10px;
     background-color: #ffffff;
+    color:black
 }
 
