@@ -17,7 +17,7 @@ const Inicio = () => {
 
   return (
     <div className="inicio">
-      <h1>Notas del Blog</h1>
+      <h1>BLOG DE NOTAS</h1>
       <AgregarNotaForm agregarNota={agregarNota} />
       <ListaNotas notas={notas} eliminarNota={eliminarNota} />
     </div>
